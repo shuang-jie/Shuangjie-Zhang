@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shuangjie Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Stats Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Santa Cruz
+    url: https://www.ucsc.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Bayesian modeling, high-dimensional data and multivariate data.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian high-dimensional data
+  - Multivariate data
+  - Application to mircobiome and ecology data
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. Candidate in Statistics
+      institution: University of California, Santa Cruz
+      year: 2019
+    - course: Master of Science in Statistics
+      institution: Duke University
+      year: 2017-2019
+    - course: B.S. in Statistics
+      institution: Southwestern University of Finance and Economics
+      year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
