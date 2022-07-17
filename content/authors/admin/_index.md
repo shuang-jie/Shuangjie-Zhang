@@ -6,12 +6,12 @@ title: Shuangjie Zhang
 superuser: true
 
 # Role/position/tagline
-role: Stats Ph.D. Candidate
+role: Ph.D. Candidate in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Santa Cruz
-    url: https://www.ucsc.edu
+    url: https://engineering.ucsc.edu/departments/statistics
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Bayesian modeling, high-dimensional data and multivariate data.
@@ -19,7 +19,7 @@ bio: My research interests include Bayesian modeling, high-dimensional data and 
 # Interests to show in About widget
 interests:
   - Bayesian high-dimensional data
-  - Multivariate data
+  - Multivariate count data
   - Application to mircobiome and ecology data
 
 # Education to show in About widget
@@ -70,8 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shuangjie Zhang is a Ph.D. Candidate in Statistics supervised by professor Juhee Lee at University of California, Santa Cruz. Before that, he earned his master degree from Duke University advised by professor Sueya T Tokdar. He is currently doing research in the field of Bayesian high-dimensional data and multivariate data. In the application, he draw motivations from microbiome data and ecological data for analysis. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
