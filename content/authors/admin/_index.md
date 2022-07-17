@@ -28,7 +28,7 @@ education:
     - course: Ph.D. Candidate in Statistics
       institution: University of California, Santa Cruz
       year: 2019
-    - course: Master of Science in Statistics
+    - course: M.S. in Statistics
       institution: Duke University
       year: 2017-2019
     - course: B.S. in Statistics
