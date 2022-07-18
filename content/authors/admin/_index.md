@@ -70,6 +70,6 @@ email: 'szhan209@ucsc.edu'
 highlight_name: true
 ---
 
-Shuangjie Zhang is a Ph.D. Candidate in Statistics supervised by professor Juhee Lee at University of California, Santa Cruz. Before that, he earned his master degree from Duke University advised by professor Surya T Tokdar. He is currently doing research in the field of Bayesian high-dimensional data and multivariate data. In the application, he draw motivations from microbiome data and ecological data for analysis. 
+Shuangjie Zhang is a Ph.D. Candidate in Statistics supervised by professor Juhee Lee at University of California, Santa Cruz. Before that, he earned his master degree from Duke University advised by professor Surya T Tokdar. He is currently doing researches in the field of Bayesian high-dimensional data and multivariate data. He draws motivations from the application in microbiome data and ecological data. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
