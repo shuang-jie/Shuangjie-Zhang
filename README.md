@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm [Shuangjie Zhang!](https://shuangjiezhang.netlify.app)
+### Hi there, I'm [Shuangjie Zhang!](https://shuangjiezhang.netlify.app)
 
 I am pursuing a Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/).
 
