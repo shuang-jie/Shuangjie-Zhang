@@ -12,19 +12,21 @@ weight: 80
 title: Publications
 subtitle: ''
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: publication
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Filter on criteria
-  filters:
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# content:
+#   # Page type to display. E.g. post, talk, publication...
+#   page_type: publication
+#   # Choose how many pages you would like to display (0 = all pages)
+#   count: 0
+#   # Filter on criteria
+#   filters:
+#     author: ''
+#     category: ''
+#     publication_type: ''
+#     tag: ''
+#   # Page order: descending (desc) or ascending (asc) date.
+#   order: desc
+ content:
+  BAYESIAN MODELING OF INTERACTION BETWEEN FEATURES IN SPARSE MULTIVARIATE COUNT DATA WITH APPLICATION TO MICROBIOME STUDY.
 
 design:
   # Choose a view for the listings:
