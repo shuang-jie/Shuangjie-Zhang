@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'BAYESIAN MODELING OF INTERACTION BETWEEN FEATURES IN SPARSE MULTIVARIATE COUNT DATA WITH APPLICATION TO MICROBIOME STUDY'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -41,7 +41,7 @@ summary: Covariance Matrix, Differential Abundance, Factor Model, Joint Sparsity
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
