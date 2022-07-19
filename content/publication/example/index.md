@@ -30,8 +30,8 @@ publishDate: '2022-07-17T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Under *reision*
-publication_short: Under *reision*
+publication: Under *revision*
+publication_short: Under *revision*
 
 abstract: Many statistical methods have been developed for the analysis of microbial community profiles, but due to the complexity of typical microbiome measurements, inference of interactions between microbial features remains challenging. We develop a Bayesian zero-inflated rounded log-normal kernel method to model interaction between microbial features in a community using multivariate count data in the presence of covariates and excess zeros. The model carefully constructs the interaction structure by imposing joint sparsity on the covariance matrix of the kernel and obtains a reliable estimate of the structure with a small sample size. The model also includes zero inflation to account for excess zeros observed in data and infers differential abundance of microbial features associated with covariates through log-linear regression. We provide simulation studies and real data analysis examples to demonstrate the developed model.  Comparison of the model to a simpler model and popular alternatives in simulation studies shows that in addition to an added and important insight on the feature interaction, it yields superior parameter estimates and model fit in various settings. 
 
